@@ -1,0 +1,15 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Bubble sort has a time complexity of Ω(n). This means that the algorithm has a linear running time in its favor condition.
+Based on my experiments, `sort1` tends to perform faster when given a sorted array, which is the best case case scenario.
+
+sort2 uses: Merge Sort
+
+How do you know?: Merge sort has a time complexity of O(n log n). In the worst condition, `sort2` performs faster than `sort3`.
+Given a reversed array, `sort2` only takes around 450 milliseconds while `sort3` takes around 2 seconds.
+
+sort3 uses: Selection Sort
+
+How do you know?: Selection sort has a time complexity of Θ(n^2). This means that in any conditions, the algorithm will take
+nearly the same amount of time, whether the array is sorted, random, or even reversed. Based on my experiments, it takes
+around 115 milliseconds to do its job for each type of array (random, reversed, and sorted).
