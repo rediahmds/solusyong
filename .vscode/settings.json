@@ -2,5 +2,10 @@
   "files.associations": {
     "*.ejs": "html",
     "ostream": "cpp"
-  }
+  },
+  "python.analysis.typeCheckingMode": "basic",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
 }
