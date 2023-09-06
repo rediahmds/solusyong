@@ -4,6 +4,14 @@
 # and ignore the number. Enter 7, 2, bob, 10, and 4 and match the output below.
 
 def get_numbers(message: str):
+	"""Get integer numbers then determine the max and min values given by user
+
+	Args: 
+			message (str): the input prompt message
+
+	Returns:
+			dict: containing two keys, "max" and "min"
+	"""
 	user_inputs = []
 	while True:
 			user_value = input(f'{message}')
