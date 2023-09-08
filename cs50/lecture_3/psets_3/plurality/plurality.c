@@ -74,7 +74,7 @@ bool vote(string name)
 
     for (int i = 0; i < candidate_count; i++)
     {
-        if (candidates[i].name == name)
+        if (strcmp(candidates[i].name, name) == 0)
         {
             candidates[i].votes += 1;
             return true;
@@ -86,31 +86,26 @@ bool vote(string name)
 // Print the winner (or winners) of the election
 void print_winner(void)
 {
-    // TODO
     // sort votes larger-smaller (bubble sort)
     // if n-first element having same amount of votes, take and print em all
     merge_sort(0, candidate_count - 1);
 
-    // Checks for duplicate
-    int duplicate = 0;
-    for (int i = 0; i < candidate_count - 1; i++)
-    {
-        if (candidates[i].votes == candidates[i + 1].votes)
-        {
-            duplicate++;
-        }
-    }
+    // Find the maximum number of votes
+    int max_votes = candidates[0].votes;
+    string current_winner = "";
 
-    if (duplicate)
+    // Print the names of all candidates with the maximum number of votes
+    for (int i = 0; i < candidate_count; i++)
     {
-        for (int i = 0; i < duplicate; i++)
+        if (strcmp(current_winner, candidates[i].name) == 0)
+        {
+            continue;
+        }
+        else if (candidates[i].votes == max_votes)
         {
             printf("%s\n", candidates[i].name);
+            current_winner = candidates[i].name;
         }
-    }
-    else
-    {
-        printf("%s\n", candidates[0].name);
     }
 
     return;
