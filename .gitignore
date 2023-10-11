@@ -1,2 +1,3 @@
 # Ignore file these extension
 *.exe
+node_modules
