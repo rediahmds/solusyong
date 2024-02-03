@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59e77114a80dc4a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cpp-2024/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6685395656d5678e",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
