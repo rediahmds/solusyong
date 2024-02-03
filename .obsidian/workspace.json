@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6685395656d5678e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cpp-2024/chapter-0/summary-chapter-0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d2684ce0b200be30",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp-2024/README.md",
+                "file": "cpp-2024/chapter-0/summary-chapter-0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpp-2024/README.md",
+                "file": "cpp-2024/chapter-0/summary-chapter-0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpp-2024/README.md"
+                "file": "cpp-2024/chapter-0/summary-chapter-0.md"
               }
             }
           }
@@ -146,8 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59e77114a80dc4a4",
+  "active": "6685395656d5678e",
   "lastOpenFiles": [
+    "cpp-2024/README.md",
+    "cpp-2024/chapter-0/summary-chapter-0.md",
+    "cpp-2024/chapter-0",
     "README.md"
   ]
 }
