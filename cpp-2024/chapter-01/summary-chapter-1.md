@@ -10,4 +10,9 @@ This chapter covers topics that are essential to C++ program, so it will not be 
 
 ## Functions and the main function
 
-- Actually, you know what it is right?
+- Actually, you know what it is right? It is a collection of statements that executes sequentially.
+- Every C++ must have a `main` function. The return value of this function will be sent to the OS to indicate whether the program ran successfully or not.
+
+## C++ STL
+
+A library file is a collection of precompiled code that has been “packaged up” for reuse in other programs. The C++ Standard Library is a library that ships with C++. It contains additional functionality to use in your programs.
