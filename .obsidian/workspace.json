@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "47831c0265b647e5",
+        "id": "3c8c2ba89c9eb945",
         "type": "tabs",
         "children": [
           {
-            "id": "6685395656d5678e",
+            "id": "6a1b8c890ed9e326",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp-2024/chapter-0/summary-chapter-0.md",
+                "file": "cpp-2024/chapter-01/summary-chapter-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp-2024/chapter-0/summary-chapter-0.md",
+                "file": "cpp-2024/chapter-01/summary-chapter-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpp-2024/chapter-0/summary-chapter-0.md",
+                "file": "cpp-2024/chapter-01/summary-chapter-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpp-2024/chapter-0/summary-chapter-0.md"
+                "file": "cpp-2024/chapter-01/summary-chapter-1.md"
               }
             }
           }
@@ -147,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6685395656d5678e",
+  "active": "6a1b8c890ed9e326",
   "lastOpenFiles": [
-    "cpp-2024/README.md",
+    "cpp-2024/chapter-01/summary-chapter-1.md",
     "cpp-2024/chapter-0/summary-chapter-0.md",
+    "cpp-2024/README.md",
     "cpp-2024/chapter-0",
     "README.md"
   ]
