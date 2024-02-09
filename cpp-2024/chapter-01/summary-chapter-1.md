@@ -29,6 +29,5 @@ A library file is a collection of precompiled code that has been “packaged up�
 >
 >In general programming, the term _object_ typically refers to an unnamed object in memory, a variable, or a function. In C++, the term _object_ has a narrower definition that excludes functions
 
-[README - C++ 2024](cpp-2024/README.md)
-
+[README - C++ 2024](cpp-2024/README.md) | [summary-chapter-0](summary-chapter-0.md)
 
