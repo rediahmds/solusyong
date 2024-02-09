@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp-2024/chapter-01/summary-chapter-1.md",
+                "file": "cpp-2024/chapter-0/summary-chapter-0.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d2684ce0b200be30",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp-2024/chapter-01/summary-chapter-1.md",
+                "file": "cpp-2024/chapter-0/summary-chapter-0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpp-2024/chapter-01/summary-chapter-1.md",
+                "file": "cpp-2024/chapter-0/summary-chapter-0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpp-2024/chapter-01/summary-chapter-1.md"
+                "file": "cpp-2024/chapter-0/summary-chapter-0.md"
               }
             }
           }
