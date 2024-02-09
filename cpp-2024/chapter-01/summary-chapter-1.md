@@ -16,3 +16,9 @@ This chapter covers topics that are essential to C++ program, so it will not be 
 ## C++ STL
 
 A library file is a collection of precompiled code that has been “packaged up” for reuse in other programs. The C++ Standard Library is a library that ships with C++. It contains additional functionality to use in your programs.
+
+## Object and Variables
+
+- Program can manipulates data to produce results the program designed to be.
+- When a program runs, the data required and the program itself will be loaded to a memory called RAM. 
+- In C++, direct access to RAM is discouraged. Instead, we can access RAM indirectly using an **object**. An **object** is a region of storage (usually memory) that can store value and has other properties associated. 
