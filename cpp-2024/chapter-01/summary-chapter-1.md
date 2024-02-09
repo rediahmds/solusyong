@@ -29,5 +29,18 @@ A library file is a collection of precompiled code that has been “packaged up�
 >
 >In general programming, the term _object_ typically refers to an unnamed object in memory, a variable, or a function. In C++, the term _object_ has a narrower definition that excludes functions
 
+### Variable Instantiation
+
+- To create a variable, we have to declare it, e.g. `int varname;`
+- Compiler then will remember that we have a variable named `varname` with type of `int`. From that point forward, whenever the compiler sees the  identifier `varname`, it will know that we're referencing this variable.
+- When the program is run (called **runtime**), the variable will be instantiated.
+- **Instantiation** means that the object will be created and assigned a memory address. Variables must be instantiated before they can be used to store values.
+
+## Data Types
+
+- **Data type** (more commonly just called a **type**) tells the compiler what type of value (e.g. a number, a letter, text, etc.) the variable will store.
+- It is used to determine how the value in memory should be interpreted.
+- In C++, the type of a variable must be known at **compile-time**. Meaning that the type cannot be changed without recompiling.
+
 [README - C++ 2024](cpp-2024/README.md) | [summary-chapter-0](summary-chapter-0.md)
 

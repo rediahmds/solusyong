@@ -87,7 +87,7 @@
               "type": "backlink",
               "state": {
                 "file": "cpp-2024/chapter-01/summary-chapter-1.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -130,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3677d8650176dd5",
+  "active": "6d9d2aa68600e2d5",
   "lastOpenFiles": [
     "README.md",
     "cpp-2024/chapter-01/summary-chapter-1.md",
