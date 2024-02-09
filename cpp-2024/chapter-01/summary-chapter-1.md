@@ -21,4 +21,12 @@ A library file is a collection of precompiled code that has been “packaged up�
 
 - Program can manipulates data to produce results the program designed to be.
 - When a program runs, the data required and the program itself will be loaded to a memory called RAM. 
-- In C++, direct access to RAM is discouraged. Instead, we can access RAM indirectly using an **object**. An **object** is a region of storage (usually memory) that can store value and has other properties associated. 
+- In C++, direct access to RAM is discouraged. Instead, we can access RAM indirectly using an **object**. An **object** is a region of storage (usually memory) that can store value and has other properties associated. So if we want to access a value or data in the memory, we can say, "*go get the value stored by this object*".
+- A **variable** is simply a named objects. It can store and retrieve values, we don't have to worry about where in memory those objects are actually placed.
+
+>An object is used to store a value in memory. A variable is an object that has a name (identifier).
+>Naming our objects let us refer to them again later in the program.
+>
+>In general programming, the term _object_ typically refers to an unnamed object in memory, a variable, or a function. In C++, the term _object_ has a narrower definition that excludes functions
+
+
